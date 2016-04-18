@@ -1,0 +1,248 @@
+/**{outline: 1px solid rgba(225,0,0, 0.4);
+
+}*/
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+*{
+	font-family: 'Roboto', sans-serif;
+}
+.container-2{
+	width: 960px;
+	padding-left: -14px; 
+	padding-right: -14px;
+	margin: 0px auto;
+}
+
+.header{
+	height: 50px;
+}
+.cont-img{
+	width: 300px;
+	height: 50px;
+	left: 15px;
+	position: relative;
+}
+.movi{
+	position: relative;
+    top: -31px;
+    left: 334px;
+    font-size: 11px;
+     color: #d9d9d9; 
+}
+
+/*============================================================
+para mi buscador
+===============================================================*/
+.search{
+	position: relative;
+    right: -620px;
+    width: 176px;
+    top: -59px
+}
+.searchbox_1{
+	position: relative;
+    background-color: #fff;
+    height: 26px;
+    width: 176px;
+    border: 2px solid #d9d9d9;
+    color: #d9d9d9; 
+
+}
+.search_1{
+ 	margin: 0;
+    width: 148px;
+    height: 21px;
+    padding-left: 15px;
+    border: none;
+
+}
+.submit_1{
+    width: 19px;
+    height: 21px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #d9d9d9;
+}
+
+/*============================================================
+para mis banner
+===============================================================*/
+.container-baner{
+  margin: 0px auto;
+   /* background-color: #383838;*/
+  background: url(../img/banner.jpg) no-repeat ;
+  background-size: 100%;
+  min-height: 181px;
+  border: 5px;
+  width: 659px;
+  position: relative;
+  left: -149px;
+
+}
+.color-banner{
+	background-color: #383838; 
+	color: #d3d3d3;
+}
+h1{
+	
+	border-bottom: 1px solid #d3d3d3;
+	margin: 20px 0 15px 5px;
+}
+.age{
+	color: #3bb247;
+    border: 2px solid #3bb247;
+    padding: 7px;
+    border-radius: 5px;
+}
+.parrafo-1{
+	font-size: 12px;
+    margin-top: 14px;
+}
+
+
+/*============================================================
+para mis botones
+===============================================================*/
+.button-1{
+	border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 11px;
+    width: 149px;
+    text-decoration: none;
+}
+.button-2{
+	border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 13px;
+    margin-bottom: 30px;
+    padding: 11px;
+    width: 149px;
+    text-decoration: none;
+}
+.button-3{
+    padding: 17px;
+    margin-bottom: 16px;
+}
+.naranja-claro{
+	background: #dfb636;
+}
+.naranja{
+	background: #bb7b29;
+}
+
+/*============================================================
+para mis imagenes de arriba
+===============================================================*/
+.foto-1{
+	background-color: #dfb636;
+	width: 
+}
+.foto-1 ul li {
+	float: left;
+	margin: 10px;
+	list-style: none;
+}
+.image-1{
+	height: 161px;
+    width: 135px;
+
+}
+/*============================================================
+para mis imagenes de abajo
+===============================================================*/
+.image-2{
+	height: 241px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.cont-img img, .image-2 img, .image-1 img{
+	height: 100%;
+	width: 100%;
+} 
+/*============================================================
+para info
+===============================================================*/
+span{
+		font-size: 10px;
+}
+h2{
+	margin-top: 10px;
+}
+h3{
+	color: #d1d1d1;
+	margin-top: 40px;
+	margin-bottom: 15px;
+	padding-top: 20px;
+}
+.easy{
+	margin-top: -3px;
+    margin-bottom: 18px;
+}
+
+hr{
+	margin-top: 20px;
+	margin-bottom: 15px;
+	color: solid #d1d1d1;
+}
+.letra-naranja{
+	color: #c79355;
+	font-size: 9px;
+	margin-bottom: 20px;
+}
+.parrafo-2{
+	color: #d1d1d1;
+	font-size: 9px;
+}
+.more{
+	color:#e3c15d;
+
+
+}
+
+
+
+
+/*============================================================
+para pie de pagina
+===============================================================*/
+.pie{
+	background-color:#f3f3f3;
+	padding-bottom: 30px;
+	padding-top: 14px;
+}
+.parrafo-3{
+	color: #c1bfbf;
+	font-size: 10px;
+	margin-top: -13px;
+
+}
+.enlaces-web{
+	text-decoration: none;
+}
+.createb{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h4{
+	color: #d1d1d1;
+	margin-bottom: 15px;
+}
+
+.clearfix:before, .clearfix:after{
+	content: "";
+	display: table;
+	clear:both;
+}
+
+
+	
+
+
+
+
